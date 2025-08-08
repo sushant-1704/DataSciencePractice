@@ -1,0 +1,17 @@
+# Problem 1
+# Apply all the preprocessing techniques that you think are necessary
+
+# Problem 2
+# Find out the number of words in the entire corpus and also the total number of unique words(vocabulary) using just python
+
+# Problem 3
+# Apply One Hot Encoding
+
+# Problem 4
+# Apply bag words and find the vocabulary also find the times each word has occured
+
+# Problem 5
+# Apply bag of bi-gram and bag of tri-gram and write down your observation about the dimensionality of the vocabulary
+
+# Problem 6
+# Apply tf-idf and find out the idf scores of words, also find out the vocabulary
