@@ -8,10 +8,10 @@
 # Apply One Hot Encoding ✅
 
 # Problem 4
-# Apply bag words and find the vocabulary also find the times each word has occured
+# Apply bag words and find the vocabulary also find the times each word has occured ✅
 
 # Problem 5
-# Apply bag of bi-gram and bag of tri-gram and write down your observation about the dimensionality of the vocabulary
+# Apply bag of bi-gram and bag of tri-gram and write down your observation about the dimensionality of the vocabulary ✅
 
 # Problem 6
-# Apply tf-idf and find out the idf scores of words, also find out the vocabulary
+# Apply tf-idf and find out the idf scores of words, also find out the vocabulary ✅
