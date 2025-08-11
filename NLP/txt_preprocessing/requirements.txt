@@ -2,3 +2,4 @@ beautifulsoup4
 emoji
 nltk
 pyspellchecker
+spacy
